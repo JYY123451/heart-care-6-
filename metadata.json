@@ -1,0 +1,7 @@
+{
+  "name": "heart care- 老年心衰自我管理",
+  "description": "专为老年心衰患者设计的健康管理平台，具备大字UI、健康打卡、体重监测、健康宣教及积分奖励系统。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
